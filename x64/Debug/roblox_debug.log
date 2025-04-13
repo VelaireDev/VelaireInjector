@@ -1,0 +1,868 @@
+Whitelisting page at address: 0x1FC82B10000
+Allocated whitelist function at: 0x1FC84B2E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359ABB4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82F8A0E9
+Allocated whitelist function at: 0x1FC84C9E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359AF2E
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82B8FFE9
+Allocated whitelist function at: 0x1FC84E0E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359AB2B
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82D027E9
+Allocated whitelist function at: 0x1FC84F7E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359ADA6
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82DD2FE9
+Allocated whitelist function at: 0x1FC850EE482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359AD76
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82F884E9
+Allocated whitelist function at: 0x1FC8525E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359AF2C
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82D0DFE9
+Allocated whitelist function at: 0x1FC853CE482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359ADA9
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC82F792E9
+Allocated whitelist function at: 0x1FC8553E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359AFDD
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1FC85670000
+Allocated whitelist function at: 0x1FC856CE482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11359D6D4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x1FC85670000 with mapping data: 0x1FC85660000
+Allocated shellcode function at: 0x1FC8583E63A
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x1AF84040000
+Allocated whitelist function at: 0x1AF840BE482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C0E4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF844BA0E9
+Allocated whitelist function at: 0x1AF8422E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C41E
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF840BFFE9
+Allocated whitelist function at: 0x1AF8439E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C01B
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF842327E9
+Allocated whitelist function at: 0x1AF8450E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C296
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF84302FE9
+Allocated whitelist function at: 0x1AF8467E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C3A6
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF844B84E9
+Allocated whitelist function at: 0x1AF847EE482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C41C
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF8423DFE9
+Allocated whitelist function at: 0x1AF8495E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C299
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF844A92E9
+Allocated whitelist function at: 0x1AF84ACE482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669C40D
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x1AF84C00000
+Allocated whitelist function at: 0x1AF84C5E482
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11669CCA4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x1AF84C00000 with mapping data: 0x1AF84BF0000
+Allocated shellcode function at: 0x1AF84DCE63A
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x19213EB0000
+Allocated whitelist function at: 0x19216EB7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE14
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213EB1000
+Allocated whitelist function at: 0x19216F27D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE15
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213EC1000
+Allocated whitelist function at: 0x19216F97D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE65
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213EC9000
+Allocated whitelist function at: 0x19217017D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE6D
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ECC000
+Allocated whitelist function at: 0x192170A7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE68
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ECD000
+Allocated whitelist function at: 0x19217137D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE69
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ED0000
+Allocated whitelist function at: 0x192171C7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE74
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ED1000
+Allocated whitelist function at: 0x19217257D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE75
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ED2000
+Allocated whitelist function at: 0x192172E7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE76
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ED3000
+Allocated whitelist function at: 0x19217377D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE77
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19213ED4000
+Allocated whitelist function at: 0x19217407D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0BE70
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x19217490000
+Allocated whitelist function at: 0x192174B7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA115B0F434
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x19217490000 with mapping data: 0x19217480000
+Allocated shellcode function at: 0x19217547E97
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x241BF080000
+Allocated whitelist function at: 0x241C47B7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7024
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF081000
+Allocated whitelist function at: 0x241C4837D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7025
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF091000
+Allocated whitelist function at: 0x241D53C7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7035
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF099000
+Allocated whitelist function at: 0x241D5667D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A703D
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF09C000
+Allocated whitelist function at: 0x241D56D7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7038
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF09D000
+Allocated whitelist function at: 0x241D5747D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7039
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF0A0000
+Allocated whitelist function at: 0x241E7A37D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7004
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF0A1000
+Allocated whitelist function at: 0x241E7AA7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7005
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF0A2000
+Allocated whitelist function at: 0x241E8B37D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7006
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF0A3000
+Allocated whitelist function at: 0x241E8BA7D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7007
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241BF0A4000
+Allocated whitelist function at: 0x241F7C97D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288A7000
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x241E7B40000
+Allocated whitelist function at: 0x241F7D07D7A
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1288FFBE4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x241E7B40000 with mapping data: 0x241E7B30000
+Allocated shellcode function at: 0x241F7D77E97
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x24283240000
+Allocated whitelist function at: 0x24283287D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2E4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283241000
+Allocated whitelist function at: 0x24283317D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2E5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283251000
+Allocated whitelist function at: 0x242833A7D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2F5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283259000
+Allocated whitelist function at: 0x24283437D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2FD
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2428325C000
+Allocated whitelist function at: 0x242834C7D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2F8
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2428325D000
+Allocated whitelist function at: 0x24283557D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2F9
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283260000
+Allocated whitelist function at: 0x242835E7D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2C4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283261000
+Allocated whitelist function at: 0x24283677D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2C5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283262000
+Allocated whitelist function at: 0x24283707D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2C6
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283263000
+Allocated whitelist function at: 0x24283797D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2C7
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24283264000
+Allocated whitelist function at: 0x24283827D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B2C0
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x242838B0000
+Allocated whitelist function at: 0x242838D7D6B
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA128B9B814
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x242838B0000 with mapping data: 0x242838A0000
+Allocated shellcode function at: 0x24283967E88
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x262AA9F0000
+Allocated whitelist function at: 0x262B6C17D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2954
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AA9F1000
+Allocated whitelist function at: 0x262B6C87D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2955
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA01000
+Allocated whitelist function at: 0x262B6CF7D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AA5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA09000
+Allocated whitelist function at: 0x262B8537D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AAD
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA0C000
+Allocated whitelist function at: 0x262B85B7D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AA8
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA0D000
+Allocated whitelist function at: 0x262B8647D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AA9
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA10000
+Allocated whitelist function at: 0x262B8E37D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AB4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA11000
+Allocated whitelist function at: 0x262B8EC7D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AB5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA12000
+Allocated whitelist function at: 0x262B8F57D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AB6
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA13000
+Allocated whitelist function at: 0x262C5257D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AB7
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262AAA14000
+Allocated whitelist function at: 0x262C52E7D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABB2AB0
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x262C5370000
+Allocated whitelist function at: 0x262C5397D75
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12ABDD3D4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x262C5370000 with mapping data: 0x262C5360000
+Allocated shellcode function at: 0x262C5427E83
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x2040F140000
+Allocated whitelist function at: 0x2040F188DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171E4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F141000
+Allocated whitelist function at: 0x2040F278DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171E5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F151000
+Allocated whitelist function at: 0x2040F2E8DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171F5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F159000
+Allocated whitelist function at: 0x2040F358DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171FD
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F15C000
+Allocated whitelist function at: 0x2040F3D8DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171F8
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F15D000
+Allocated whitelist function at: 0x2040F468DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171F9
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F160000
+Allocated whitelist function at: 0x2040FB08DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171C4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F161000
+Allocated whitelist function at: 0x2040FB78DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171C5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F162000
+Allocated whitelist function at: 0x2040FC08DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171C6
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F163000
+Allocated whitelist function at: 0x2040FC98DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171C7
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040F164000
+Allocated whitelist function at: 0x2040FD28DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD171C0
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x2040FDB0000
+Allocated whitelist function at: 0x2040FDD8DA2
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12CD17D14
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x2040FDB0000 with mapping data: 0x2040FDA0000
+Allocated shellcode function at: 0x20410E38EAB
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x26BD1490000
+Allocated whitelist function at: 0x26BDDFF8D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9434
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD1491000
+Allocated whitelist function at: 0x26BDE068D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9435
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14A1000
+Allocated whitelist function at: 0x26BDE0D8D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9405
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14A9000
+Allocated whitelist function at: 0x26BDE148D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C940D
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14AC000
+Allocated whitelist function at: 0x26BDE1B8D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9408
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14AD000
+Allocated whitelist function at: 0x26BDE228D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9409
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14B0000
+Allocated whitelist function at: 0x26BDE2B8D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9414
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14B1000
+Allocated whitelist function at: 0x26BDE348D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9415
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14B2000
+Allocated whitelist function at: 0x26BDE3D8D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9416
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14B3000
+Allocated whitelist function at: 0x26BE7378D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9417
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BD14B4000
+Allocated whitelist function at: 0x26BE7408D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2C9410
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x26BE7490000
+Allocated whitelist function at: 0x26BE74B8D84
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA12A2FF434
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x26BE7490000 with mapping data: 0x26BE7480000
+Allocated shellcode function at: 0x26BE7548E97
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x13D8C580000
+Allocated whitelist function at: 0x13D8C5C8DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494524
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C581000
+Allocated whitelist function at: 0x13D8DE28DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494525
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C591000
+Allocated whitelist function at: 0x13D8DE98DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494535
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C599000
+Allocated whitelist function at: 0x13D8DF08DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F49453D
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C59C000
+Allocated whitelist function at: 0x13D98418DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494538
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C59D000
+Allocated whitelist function at: 0x13D98488DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494539
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C5A0000
+Allocated whitelist function at: 0x13D984F8DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494504
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C5A1000
+Allocated whitelist function at: 0x13D98588DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494505
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C5A2000
+Allocated whitelist function at: 0x13D9D5F8DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494506
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C5A3000
+Allocated whitelist function at: 0x13D9D678DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494507
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D8C5A4000
+Allocated whitelist function at: 0x13D9D708DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F494500
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x13D9D790000
+Allocated whitelist function at: 0x13D9D7B8DCA
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA11F485734
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x13D9D790000 with mapping data: 0x13D9D780000
+Allocated shellcode function at: 0x13D9D848EFB
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
+Whitelisting page at address: 0x24DCE600000
+Allocated whitelist function at: 0x24DCE649DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D66A4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE601000
+Allocated whitelist function at: 0x24DCE6C9DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D66A5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE611000
+Allocated whitelist function at: 0x24DCFB39DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D66B5
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE619000
+Allocated whitelist function at: 0x24DCFBB9DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D66BD
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE61C000
+Allocated whitelist function at: 0x24DCFC39DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D66B8
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE61D000
+Allocated whitelist function at: 0x24DCFCB9DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D66B9
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE620000
+Allocated whitelist function at: 0x24DCFD39DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D6684
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE621000
+Allocated whitelist function at: 0x24DCFDB9DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D6685
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE622000
+Allocated whitelist function at: 0x24DCFE39DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D6686
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE623000
+Allocated whitelist function at: 0x24DCFED9DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D6687
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DCE624000
+Allocated whitelist function at: 0x24DCFF79DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284D6680
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Whitelisting page at address: 0x24DD0010000
+Allocated whitelist function at: 0x24DD0039DD4
+Got function bytes, preparing to modify at offset 34
+Set encrypted page value to: 0x8BAE0AA1284C80B4
+Set modified bytes back to function
+Executing whitelist function...
+Whitelist function executed
+Calling shellcode at address: 0x24DD0010000 with mapping data: 0x24DD0000000
+Allocated shellcode function at: 0x24DD00D9EF6
+Setting mapping data at offset 6
+Setting address at offset 16
+Set modified bytes back to function
+Executing shellcode function...
+Shellcode function executed
