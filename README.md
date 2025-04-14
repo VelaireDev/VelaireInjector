@@ -47,3 +47,9 @@ constexpr uint64_t Offset_RBXPRINT = 0x1631640; // This may change with updates
 Feel free to contribute by updating offsets or adding new features. Pull requests are welcome!
 
 ---
+
+_**CREDITS**_
+
+Full credit goes to nbeater678 for creating the original foundation of this injection method. My version sinmply expands on it by adding enhanced logging to support further development and debugging. Be sure to thank him for this method — not me!
+
+---
