@@ -50,6 +50,6 @@ Feel free to contribute by updating offsets or adding new features. Pull request
 
 _**CREDITS**_
 
-Full credit goes to nbeater678 for creating the original foundation of this injection method. My version sinmply expands on it by adding enhanced logging to support further development and debugging. Be sure to thank him for this method — not me!
+Full credit goes to nbeater678 for creating the original foundation of this injection method. My version simply expands on it by adding enhanced logging to support further development and debugging. Be sure to thank him for this method — not me!
 
 ---
