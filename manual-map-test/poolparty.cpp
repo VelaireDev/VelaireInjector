@@ -93,7 +93,7 @@ bool PoolParty::execute(PVOID address) {
 };
 
 PVOID PoolParty::scan_codecave(HANDLE process) {
-	size_t cave_size = 1000;
+	size_t cave_size = 100;
 	MEMORY_BASIC_INFORMATION mbi;
 	for (uintptr_t i = 0; i < 0x7FFFFFFF0000;) {
 		PVOID address = reinterpret_cast<PVOID>(i);
