@@ -24,9 +24,9 @@ These offsets are subject to change with updates, so always ensure you have the 
 ### 📜 **Current Offsets**
 
 ```cpp
-//Semi updated offsets for version-b83d92f2144a48e2!
+//updated offsets for version-b83d92f2144a48e2!
 
-constexpr uint64_t kPageHash = 0x8bae0aa10c9180a4; // Still looking for this offset | (RMM may still work)
+constexpr uint64_t kPageHash = 0x90dd36fed8ea4ff4; // Just reversed it! | Changed due to Roblox updating...
 constexpr uint64_t kPageMask = 0xFFFFFFFFFFFFF000;
 constexpr uint8_t  kPageShift = 0xC;
 
