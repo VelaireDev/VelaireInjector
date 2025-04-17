@@ -24,13 +24,14 @@ These offsets are subject to change with updates, so always ensure you have the 
 ### 📜 **Current Offsets**
 
 ```cpp
-constexpr uint64_t kPageHash = 0x8bae0aa10c9180a4; // This may change with updates
+//Semi updated offsets for version-b83d92f2144a48e2!
+
+constexpr uint64_t kPageHash = 0x8bae0aa10c9180a4; // Still looking for this offset, might be outdated (RMM may still work)
 constexpr uint64_t kPageMask = 0xFFFFFFFFFFFFF000;
 constexpr uint8_t  kPageShift = 0xC;
 
-constexpr uint64_t Offset_InsertSet = 0xdca3c0; // This may change with updates
-constexpr uint64_t Offset_WhitelistedPages = 0x2a5028; // This may change with updates
-constexpr uint64_t Offset_RBXPRINT = 0x1631640; // This may change with updates
+constexpr uint64_t Offset_InsertSet = 0xcea020; // Changed due to Roblox updating...
+constexpr uint64_t Offset_WhitelistedPages = 0x2d3a48 ; // Changed due to Roblox updating...
 ```
 
 ---
