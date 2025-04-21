@@ -5,6 +5,12 @@
 
 ---
 
+**UPDATE!**
+
+I have fixed all issues in the old RMMInject new injector should work as advertised!
+
+---
+
 ### ⚠️ **Troubleshooting**
 
 If Roblox crashes after injection, it's likely due to incorrect offsets for the following parameters:
@@ -46,11 +52,5 @@ constexpr uint64_t Offset_WhitelistedPages = 0x29C758; // Changed again due to u
 ### 📝 **Contributing**
 
 Feel free to contribute by updating offsets or adding new features. Pull requests are welcome!
-
----
-
-_**CREDITS**_
-
-Full credit goes to nbeater678 for creating the original foundation of this injection method. My version simply expands on it by adding enhanced logging to support further development and debugging. Be sure to thank him for this method — not me!
 
 ---
