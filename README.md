@@ -54,7 +54,7 @@ namespace Offsets
 
 ### 🔧 **Setup & Usage**
 
-1. **Compile**: Build the project in your preferred IDE or use a tool like Visual Studio.
+1. **Compile**: Build the project in your preferred IDE or use a tool like Visual Studi | MAKE SURE BUILD IS SET TO Release x64
 3. **Ensure Correct Offsets**: If you encounter crashes, verify that the offsets are up to date.
 
 ---
