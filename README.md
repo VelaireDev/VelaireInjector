@@ -15,14 +15,15 @@ I have fixed all issues in the old RMMInject new injector should work as adverti
 
 If Roblox crashes after injection, it's likely due to incorrect offsets for the following parameters:
 
-- `SET_INSERT`
-- `WHITELISTED_PAGES`
+- `SCF_INSERTED_JMP`
+- `SCF_END_MARKER`
 - `PAGE_ENCRYPTION_KEY`
-- `kPageHash`
+- `SCF_MARKER_STK`
 - `kPageMask`
 - `kPageShift`
-- `RBXPRINT`
-
+- `kPageHash`
+- `InsertSet`
+- `WhitelistedPages`
 These offsets are subject to change with updates, so always ensure you have the correct values.
 
 ---
