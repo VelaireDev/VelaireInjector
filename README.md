@@ -24,6 +24,7 @@ If Roblox crashes after injection, it's likely due to incorrect offsets for the 
 - `kPageHash`
 - `InsertSet`
 - `WhitelistedPages`
+  
 These offsets are subject to change with updates, so always ensure you have the correct values.
 
 ---
