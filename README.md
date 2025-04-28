@@ -7,7 +7,7 @@
 
 **UPDATE!**
 
-With the latest hyperion update adding CFG memory protection, RMMInject isn't working. You can wait for the new version (releasing tommorow), or quickly upgrade your base to make it work now!
+With the latest hyperion update adding CFG memory protection, RMMInject isn't working. You can either wait for the new version (releasing tommorow), or quickly upgrade your base to make it work now!
 
 ---
 
