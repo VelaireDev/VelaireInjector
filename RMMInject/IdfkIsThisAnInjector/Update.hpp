@@ -10,7 +10,7 @@ namespace Offsets
 	constexpr uint64_t kPageMask = 0xfffffffffffff000;
 	constexpr uint8_t kPageShift = 0xc;
 
-	// update these mf they change every update (usually)
+	// they get updated every update. I am probally going to make it pull from a public repo on VelaireDev when the dll is finished
     constexpr uint64_t kPageHash = 0x5f9213b9;
     constexpr uint64_t Offset_InsertSet = 0xB57060;
     constexpr uint64_t Offset_WhitelistedPages = 0x2A86A0;
