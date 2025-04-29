@@ -7,7 +7,7 @@
 
 **UPDATE!**
 
-I have fixed all issues in the old RMMInject new injector should work as advertised!
+With the latest hyperion update adding CFG memory protection, RMMInject isn't working. You can either wait for the new version (releasing tommorow), or quickly upgrade your base to make it work now!
 
 ---
 
