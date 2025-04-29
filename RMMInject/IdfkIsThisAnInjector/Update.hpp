@@ -11,7 +11,7 @@ namespace Offsets
 	constexpr uint8_t kPageShift = 0xc;
 
 	// update these mf they change every update (usually)
-    constexpr uint64_t kPageHash = 0x84B3A57D90E73527;
-    constexpr uint64_t Offset_InsertSet = 0xC43D00;
-    constexpr uint64_t Offset_WhitelistedPages = 0x29C758;
+    constexpr uint64_t kPageHash = 0x5f9213b9;
+    constexpr uint64_t Offset_InsertSet = 0xB57060;
+    constexpr uint64_t Offset_WhitelistedPages = 0x2A86A0;
 }

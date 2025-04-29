@@ -1049,7 +1049,7 @@ int main()
 {
 	Process::Object proc = Process::WaitForProcess(oxorany(L"RobloxPlayerBeta.exe"));
 
-	std::string dllname = oxorany("example_dll.dll");
+	std::string dllname = oxorany("DLL1.dll");
 
 	printf((oxorany("Injecting ") + dllname + oxorany("\n")).c_str());
 

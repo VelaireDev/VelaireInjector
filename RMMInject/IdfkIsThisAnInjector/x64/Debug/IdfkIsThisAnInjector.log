@@ -1,8 +1,5 @@
-﻿  IdfkIsThisAnInjector.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
-C:\Users\naufr\Desktop\testinglol\Functioning Injector\IdfkIsThisAnInjector\oxorany.h(29,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
-  (compiling source file 'IdfkIsThisAnInjector.cpp')
+﻿  RMMInject.cpp
+C:\Users\allan\source\repos\RMMInject\RMMInject\IdfkIsThisAnInjector\oxorany.h(29,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+  (compiling source file 'RMMInject.cpp')
   
-  IdfkIsThisAnInjector.vcxproj -> C:\Users\naufr\Desktop\testinglol\Assembly\x64\Debug\Injector.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+  IdfkIsThisAnInjector.vcxproj -> C:\Users\allan\source\repos\RMMInject\RMMInject\x64\Debug\Injector.exe
